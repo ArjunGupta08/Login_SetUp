@@ -10,3 +10,5 @@
 Don't know about the `end-point` and `base url`? here is a quick guide 
 - just remember `base url` + `end-point` = `results`
 - examples of `base url` : `instagram.com/` or `github.com/`
+- examples of `end-points`: `arjungupta0817` or `arjungupta08`
+- So `github.com/arjungupta08` = `results`
