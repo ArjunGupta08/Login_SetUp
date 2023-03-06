@@ -5,7 +5,7 @@
 ### Here just I'm Going to show you how to implement an API in Android application using volley.
 - implement volley dependency in your build.gradale file.
 - showing meme image and meme text on button click.
-- As this is a very beginner friendly project so here i just used only one end point of this api, which is - [https://meme-api.com/gimme](https://meme-api.com/gimme)
+- As this is a very beginner friendly project so here i just used only one `end-point` of this api, which is - [https://meme-api.com/gimme](https://meme-api.com/gimme)
 - You can find more `end-points` from the GitHub profile of this Api
 
 Don't know about the `end-point` and `base url`? here is a quick guide 
