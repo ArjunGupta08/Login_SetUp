@@ -13,3 +13,6 @@ Don't know about the `end-point` and `base url`? here is a quick guide
 - examples of `base url` : `instagram.com/` or `github.com/`
 - examples of `end-points`: `arjungupta0817` or `arjungupta08`
 - So `github.com/arjungupta08` = `results`
+
+### For practice you can find 100s of API's here -
+[https://apilayer.com/](https://apilayer.com/)
